@@ -68,9 +68,13 @@ The raw marketing data had **320** rows. After cleaning in SQL Server (SQL = Str
 4. Add the measures from `dax/measures.dax`.
 5. Build the three pages, publish to Power BI Service, add the Sandton RLS role and set a daily refresh.
 
-## Note
+## Limitations and what I want to look at next
 
-This project comes from the senior data analyst study guide I wrote for myself, based on real job ads. The data is made up (a case-study dataset), because I did not have access to real company data.
+- **The data is simulated.** It is made to look like a real South African retailer, but it is not real. I would much prefer to use real business data, because real data has problems and patterns that simulated data does not.
+- **Leads are not linked to sales.** The dashboard compares marketing and sales by province, but it cannot show which lead turned into which sale. With real data I would link each lead to the customer's later purchases, to measure true marketing ROI (return on investment).
+- **Budget is not the same as results.** A big budget in KwaZulu-Natal may be on purpose, for example to grow a new market. I would want to talk to the marketing team before calling it "too much".
+- **One point in time.** I would add trends over time, to see if the Attention Gap is getting smaller after budgets change.
+- **Next:** test whether a province's marketing spend actually changes its sales a few months later (for example with a simple regression or a before-and-after comparison).
 
 **Tools:** Power BI · Power BI Service · DAX · SQL Server
 
