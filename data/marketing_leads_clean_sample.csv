@@ -1,0 +1,301 @@
+lead_id,full_name,email,province,monthly_budget,source,signup_date
+1,Lead 001,lead001@example.co.za,Gauteng,5000,campaign,2025-12-29
+2,Lead 002,lead002@example.co.za,Gauteng,4500,campaign,2025-08-30
+3,Lead 003,lead003@example.co.za,Gauteng,4500,web,2025-02-08
+4,Lead 004,lead004@example.co.za,Gauteng,500,referral,2025-02-02
+5,Lead 005,lead005@example.co.za,Gauteng,0,referral,2025-12-08
+6,Lead 006,lead006@example.co.za,Gauteng,2500,referral,2025-02-25
+7,Lead 007,lead007@example.co.za,Gauteng,2500,web,2025-09-06
+8,Lead 008,lead008@example.co.za,Gauteng,6000,web,2025-08-18
+9,Lead 009,lead009@example.co.za,Gauteng,0,walk-in,2025-05-14
+10,Lead 010,lead010@example.co.za,Gauteng,2000,web,2025-11-27
+11,Lead 011,lead011@example.co.za,Gauteng,0,campaign,2025-04-06
+12,Lead 012,lead012@example.co.za,Gauteng,2000,web,2025-09-18
+13,Lead 013,lead013@example.co.za,Gauteng,3000,walk-in,2025-02-16
+14,Lead 014,lead014@example.co.za,Gauteng,500,web,2025-06-15
+15,Lead 015,lead015@example.co.za,Gauteng,2500,web,2025-06-18
+16,Lead 016,lead016@example.co.za,Gauteng,500,campaign,2025-11-08
+17,Lead 017,lead017@example.co.za,Gauteng,0,referral,2025-02-21
+18,Lead 018,lead018@example.co.za,Gauteng,500,web,2025-08-01
+19,Lead 019,lead019@example.co.za,Gauteng,1500,web,2025-03-07
+20,Lead 020,,Gauteng,1000,web,2025-06-29
+21,Lead 021,lead021@example.co.za,Gauteng,2500,referral,2025-10-16
+22,Lead 022,lead022@example.co.za,Gauteng,500,referral,2025-03-04
+23,Lead 023,lead023@example.co.za,Gauteng,3500,referral,2025-04-18
+24,Lead 024,lead024@example.co.za,Gauteng,2500,referral,2025-01-09
+25,Lead 025,lead025@example.co.za,Gauteng,1000,web,2025-04-11
+26,Lead 026,lead026@example.co.za,Gauteng,1000,walk-in,2025-06-27
+27,Lead 027,lead027@example.co.za,Gauteng,1000,referral,2025-10-21
+28,Lead 028,lead028@example.co.za,Gauteng,0,referral,2025-04-08
+29,Lead 029,lead029@example.co.za,Gauteng,500,web,2025-05-13
+30,Lead 030,lead030@example.co.za,Gauteng,1500,web,2025-10-28
+31,Lead 031,lead031@example.co.za,Gauteng,500,web,2025-08-31
+32,Lead 032,lead032@example.co.za,Gauteng,2500,campaign,2025-09-02
+33,Lead 033,lead033@example.co.za,Gauteng,1500,campaign,2025-04-27
+34,Lead 034,lead034@example.co.za,Gauteng,500,web,2025-02-09
+35,Lead 035,lead035@example.co.za,Gauteng,1000,referral,2025-07-19
+36,Lead 036,lead036@example.co.za,Gauteng,1000,campaign,2025-05-16
+37,Lead 037,lead037@example.co.za,Gauteng,500,walk-in,2025-08-20
+38,Lead 038,lead038@example.co.za,Gauteng,500,web,2025-04-16
+39,Lead 039,lead039@example.co.za,Gauteng,1500,web,2025-07-14
+40,Lead 040,lead040@example.co.za,Gauteng,500,walk-in,2025-01-17
+41,Lead 041,lead041@example.co.za,Gauteng,2500,campaign,2025-11-04
+42,Lead 042,lead042@example.co.za,Gauteng,2500,referral,2025-11-21
+43,Lead 043,lead043@example.co.za,Gauteng,2000,campaign,2025-05-03
+44,Lead 044,lead044@example.co.za,Gauteng,0,web,2025-08-29
+45,Lead 045,lead045@example.co.za,Gauteng,2000,web,2025-01-02
+46,Lead 046,lead046@example.co.za,Gauteng,2500,web,2025-12-07
+47,Lead 047,lead047@example.co.za,Gauteng,2000,web,2025-09-29
+48,Lead 048,lead048@example.co.za,Gauteng,500,campaign,2025-03-07
+49,Lead 049,lead049@example.co.za,Gauteng,500,web,2025-12-30
+50,Lead 050,lead050@example.co.za,Gauteng,500,referral,2025-10-10
+51,Lead 051,lead051@example.co.za,Gauteng,500,web,2025-03-05
+52,Lead 052,lead052@example.co.za,Gauteng,0,campaign,2025-03-25
+53,Lead 053,lead053@example.co.za,Gauteng,500,referral,2025-12-04
+54,Lead 054,lead054@example.co.za,Gauteng,2500,web,2025-09-10
+55,Lead 055,lead055@example.co.za,Gauteng,7500,campaign,2025-01-31
+56,Lead 056,lead056@example.co.za,Gauteng,1000,web,2025-09-26
+57,Lead 057,lead057@example.co.za,Gauteng,500,web,2025-12-21
+58,Lead 058,,Gauteng,500,campaign,2025-04-20
+59,Lead 059,lead059@example.co.za,Gauteng,500,web,2025-12-16
+60,Lead 060,lead060@example.co.za,Gauteng,0,referral,2025-12-03
+61,Lead 061,lead061@example.co.za,Gauteng,2000,web,2025-09-21
+62,Lead 062,lead062@example.co.za,Gauteng,2500,walk-in,2025-02-21
+63,Lead 063,lead063@example.co.za,Gauteng,3000,walk-in,2025-09-26
+64,Lead 064,lead064@example.co.za,Gauteng,10000,campaign,2025-10-20
+65,Lead 065,lead065@example.co.za,Gauteng,4000,web,2025-04-15
+66,Lead 066,lead066@example.co.za,Gauteng,3000,web,2025-10-29
+67,Lead 067,lead067@example.co.za,Gauteng,2000,referral,2025-12-06
+68,Lead 068,lead068@example.co.za,Gauteng,1000,referral,2025-11-12
+69,Lead 069,lead069@example.co.za,Gauteng,0,referral,2025-02-11
+70,Lead 070,lead070@example.co.za,Gauteng,2000,referral,2025-08-26
+71,Lead 071,lead071@example.co.za,Gauteng,1000,web,2025-12-29
+72,Lead 072,lead072@example.co.za,Gauteng,3000,web,2025-09-29
+73,Lead 073,lead073@example.co.za,Gauteng,3500,referral,2025-05-11
+74,Lead 074,lead074@example.co.za,Gauteng,500,web,2025-02-23
+75,Lead 075,lead075@example.co.za,Gauteng,0,walk-in,2025-08-06
+76,Lead 076,,Gauteng,1500,web,2025-03-02
+77,Lead 077,lead077@example.co.za,Gauteng,4500,web,2025-09-16
+78,Lead 078,lead078@example.co.za,Gauteng,1500,web,2025-01-21
+79,Lead 079,lead079@example.co.za,Western Cape,5500,campaign,2025-12-01
+80,Lead 080,lead080@example.co.za,Western Cape,1000,referral,2025-10-18
+81,Lead 081,lead081@example.co.za,Western Cape,1500,web,2025-10-14
+82,Lead 082,lead082@example.co.za,Western Cape,2000,campaign,2025-02-12
+83,Lead 083,lead083@example.co.za,Western Cape,500,campaign,2025-03-17
+84,Lead 084,lead084@example.co.za,Western Cape,7000,campaign,2025-09-02
+85,Lead 085,lead085@example.co.za,Western Cape,1500,web,2025-10-17
+86,Lead 086,lead086@example.co.za,Western Cape,0,web,2025-05-13
+87,Lead 087,lead087@example.co.za,Western Cape,500,walk-in,2025-07-22
+88,Lead 088,lead088@example.co.za,Western Cape,1000,campaign,2025-06-09
+89,Lead 089,lead089@example.co.za,Western Cape,500,walk-in,2025-05-12
+90,Lead 090,lead090@example.co.za,Western Cape,1000,web,2025-10-12
+91,Lead 091,lead091@example.co.za,Western Cape,2000,campaign,2025-11-05
+92,Lead 092,,Western Cape,0,campaign,2025-12-13
+93,Lead 093,lead093@example.co.za,Western Cape,1000,web,2025-06-24
+94,Lead 094,lead094@example.co.za,Western Cape,4000,web,2025-08-03
+95,Lead 095,lead095@example.co.za,Western Cape,0,campaign,2025-06-06
+96,Lead 096,,Western Cape,2500,referral,2025-04-18
+97,Lead 097,lead097@example.co.za,Western Cape,0,walk-in,2025-09-26
+98,Lead 098,lead098@example.co.za,Western Cape,6500,walk-in,2025-10-12
+99,Lead 099,lead099@example.co.za,Western Cape,500,web,2025-10-11
+100,Lead 100,lead100@example.co.za,Western Cape,500,walk-in,2025-11-01
+101,Lead 101,lead101@example.co.za,Western Cape,2500,campaign,2025-08-15
+102,Lead 102,lead102@example.co.za,Western Cape,5500,web,2025-02-02
+103,Lead 103,lead103@example.co.za,Western Cape,8000,web,2025-11-07
+104,Lead 104,lead104@example.co.za,Western Cape,3500,walk-in,2025-10-10
+105,Lead 105,lead105@example.co.za,Western Cape,4000,web,2025-01-02
+106,Lead 106,lead106@example.co.za,Western Cape,2500,referral,2025-01-02
+107,Lead 107,lead107@example.co.za,Western Cape,500,web,2025-04-15
+108,Lead 108,lead108@example.co.za,Western Cape,3000,campaign,2025-11-06
+109,Lead 109,lead109@example.co.za,Western Cape,500,campaign,2025-11-04
+110,Lead 110,lead110@example.co.za,Western Cape,2500,web,2025-09-12
+111,Lead 111,lead111@example.co.za,Western Cape,2000,web,2025-09-11
+112,Lead 112,lead112@example.co.za,Western Cape,1000,referral,2025-07-03
+113,Lead 113,lead113@example.co.za,Western Cape,1500,web,2025-10-24
+114,Lead 114,lead114@example.co.za,Western Cape,2000,web,2025-09-25
+115,Lead 115,lead115@example.co.za,Western Cape,500,walk-in,2025-09-30
+116,Lead 116,lead116@example.co.za,Western Cape,1000,referral,2025-08-11
+117,Lead 117,lead117@example.co.za,Western Cape,1000,campaign,2025-06-17
+118,Lead 118,lead118@example.co.za,Western Cape,500,web,2025-09-16
+119,Lead 119,lead119@example.co.za,Western Cape,500,walk-in,2025-08-04
+120,Lead 120,lead120@example.co.za,Western Cape,2500,referral,2025-06-16
+121,Lead 121,lead121@example.co.za,Western Cape,3000,web,2025-04-01
+122,Lead 122,lead122@example.co.za,Western Cape,1500,referral,2025-12-11
+123,Lead 123,lead123@example.co.za,Western Cape,1500,referral,2025-06-11
+124,Lead 124,lead124@example.co.za,Western Cape,1000,referral,2025-12-09
+125,Lead 125,lead125@example.co.za,Western Cape,3000,referral,2025-02-17
+126,Lead 126,lead126@example.co.za,Western Cape,1000,web,2025-02-13
+127,Lead 127,lead127@example.co.za,Western Cape,2500,referral,2025-10-13
+128,Lead 128,lead128@example.co.za,Western Cape,1500,referral,2025-08-11
+129,Lead 129,lead129@example.co.za,Western Cape,1500,web,2025-12-12
+130,Lead 130,lead130@example.co.za,Western Cape,7000,web,2025-08-03
+131,Lead 131,lead131@example.co.za,Western Cape,5500,referral,2025-02-23
+132,Lead 132,lead132@example.co.za,Western Cape,2500,referral,2025-03-24
+133,Lead 133,lead133@example.co.za,Western Cape,3000,referral,2025-08-02
+134,Lead 134,lead134@example.co.za,Western Cape,500,campaign,2025-08-26
+135,Lead 135,lead135@example.co.za,Western Cape,1000,referral,2025-07-12
+136,Lead 136,lead136@example.co.za,Western Cape,3000,referral,2025-08-16
+137,Lead 137,lead137@example.co.za,Western Cape,2500,campaign,2025-02-16
+138,Lead 138,lead138@example.co.za,Western Cape,500,referral,2025-12-02
+139,Lead 139,lead139@example.co.za,Western Cape,7500,web,2025-07-09
+140,Lead 140,lead140@example.co.za,Western Cape,0,web,2025-11-01
+141,Lead 141,lead141@example.co.za,Western Cape,2500,campaign,2025-10-27
+142,Lead 142,lead142@example.co.za,Western Cape,0,web,2025-01-21
+143,Lead 143,lead143@example.co.za,Western Cape,6000,web,2025-01-25
+144,Lead 144,lead144@example.co.za,Western Cape,0,campaign,2025-09-28
+145,Lead 145,lead145@example.co.za,Western Cape,4000,web,2025-09-16
+146,Lead 146,lead146@example.co.za,Western Cape,500,web,2025-02-25
+147,Lead 147,lead147@example.co.za,Western Cape,11000,walk-in,2025-01-28
+148,Lead 148,lead148@example.co.za,Western Cape,1500,web,2025-12-29
+149,Lead 149,lead149@example.co.za,Western Cape,3000,campaign,2025-10-02
+150,Lead 150,lead150@example.co.za,Western Cape,2500,web,2025-05-22
+151,Lead 151,lead151@example.co.za,Western Cape,1500,referral,2025-06-19
+152,Lead 152,lead152@example.co.za,Western Cape,3500,campaign,2025-03-01
+153,Lead 153,lead153@example.co.za,Western Cape,2000,referral,2025-03-14
+154,Lead 154,lead154@example.co.za,Western Cape,6500,web,2025-11-02
+155,Lead 155,lead155@example.co.za,Western Cape,0,web,2025-04-30
+156,Lead 156,,Western Cape,13000,referral,2025-01-30
+157,Lead 157,lead157@example.co.za,Western Cape,2000,web,2025-04-22
+158,Lead 158,,Western Cape,500,web,2025-03-07
+159,Lead 159,lead159@example.co.za,Western Cape,1500,web,2025-03-12
+160,Lead 160,lead160@example.co.za,Western Cape,3000,referral,2025-06-28
+161,Lead 161,lead161@example.co.za,KwaZulu-Natal,1500,campaign,2025-07-13
+162,Lead 162,lead162@example.co.za,KwaZulu-Natal,1500,campaign,2025-01-11
+163,Lead 163,lead163@example.co.za,KwaZulu-Natal,7000,web,2025-06-01
+164,Lead 164,lead164@example.co.za,KwaZulu-Natal,1500,campaign,2025-11-07
+165,Lead 165,lead165@example.co.za,KwaZulu-Natal,3000,referral,2025-06-13
+166,Lead 166,lead166@example.co.za,KwaZulu-Natal,5500,campaign,2025-05-25
+167,Lead 167,lead167@example.co.za,KwaZulu-Natal,1500,web,2025-09-03
+168,Lead 168,lead168@example.co.za,KwaZulu-Natal,0,campaign,2025-05-05
+169,Lead 169,lead169@example.co.za,KwaZulu-Natal,500,web,2025-10-10
+170,Lead 170,lead170@example.co.za,KwaZulu-Natal,1500,referral,2025-05-29
+171,Lead 171,,KwaZulu-Natal,1500,campaign,2025-09-25
+172,Lead 172,lead172@example.co.za,KwaZulu-Natal,1500,walk-in,2025-08-05
+173,Lead 173,lead173@example.co.za,KwaZulu-Natal,3000,web,2025-02-07
+174,Lead 174,lead174@example.co.za,KwaZulu-Natal,3000,web,2025-05-13
+175,Lead 175,lead175@example.co.za,KwaZulu-Natal,2500,referral,2025-12-17
+176,Lead 176,lead176@example.co.za,KwaZulu-Natal,6000,referral,2025-08-19
+177,Lead 177,lead177@example.co.za,KwaZulu-Natal,7500,campaign,2025-07-03
+178,Lead 178,lead178@example.co.za,KwaZulu-Natal,3000,campaign,2025-07-16
+179,Lead 179,,KwaZulu-Natal,4000,web,2025-11-21
+180,Lead 180,lead180@example.co.za,KwaZulu-Natal,1000,campaign,2025-11-27
+181,Lead 181,lead181@example.co.za,KwaZulu-Natal,500,campaign,2025-01-10
+182,Lead 182,lead182@example.co.za,KwaZulu-Natal,2000,web,2025-04-19
+183,Lead 183,lead183@example.co.za,KwaZulu-Natal,5500,campaign,2025-01-01
+184,Lead 184,lead184@example.co.za,KwaZulu-Natal,500,campaign,2025-04-14
+185,Lead 185,lead185@example.co.za,KwaZulu-Natal,1000,referral,2025-11-10
+186,Lead 186,,KwaZulu-Natal,2000,campaign,2025-06-23
+187,Lead 187,lead187@example.co.za,KwaZulu-Natal,1000,walk-in,2025-04-08
+188,Lead 188,lead188@example.co.za,KwaZulu-Natal,0,referral,2025-10-14
+189,Lead 189,lead189@example.co.za,KwaZulu-Natal,9000,campaign,2025-04-27
+190,Lead 190,lead190@example.co.za,KwaZulu-Natal,1500,referral,2025-12-14
+191,Lead 191,lead191@example.co.za,KwaZulu-Natal,500,walk-in,2025-09-27
+192,Lead 192,lead192@example.co.za,KwaZulu-Natal,1000,web,2025-02-07
+193,Lead 193,lead193@example.co.za,KwaZulu-Natal,0,referral,2025-04-07
+194,Lead 194,lead194@example.co.za,KwaZulu-Natal,1500,web,2025-07-07
+195,Lead 195,lead195@example.co.za,KwaZulu-Natal,3500,web,2025-10-11
+196,Lead 196,lead196@example.co.za,KwaZulu-Natal,1500,web,2025-01-23
+197,Lead 197,lead197@example.co.za,KwaZulu-Natal,3000,web,2025-03-25
+198,Lead 198,lead198@example.co.za,KwaZulu-Natal,1500,web,2025-06-01
+199,Lead 199,lead199@example.co.za,KwaZulu-Natal,3000,web,2025-02-10
+200,Lead 200,lead200@example.co.za,KwaZulu-Natal,1500,web,2025-07-04
+201,Lead 201,lead201@example.co.za,KwaZulu-Natal,2000,campaign,2025-06-20
+202,Lead 202,lead202@example.co.za,KwaZulu-Natal,4000,web,2025-11-03
+203,Lead 203,,KwaZulu-Natal,9500,referral,2025-11-11
+204,Lead 204,lead204@example.co.za,KwaZulu-Natal,1000,web,2025-09-06
+205,Lead 205,lead205@example.co.za,KwaZulu-Natal,7500,web,2025-06-30
+206,Lead 206,lead206@example.co.za,KwaZulu-Natal,0,web,2025-06-17
+207,Lead 207,lead207@example.co.za,KwaZulu-Natal,2000,web,2025-01-08
+208,Lead 208,lead208@example.co.za,KwaZulu-Natal,1500,web,2025-12-01
+209,Lead 209,lead209@example.co.za,KwaZulu-Natal,2000,web,2025-09-15
+210,Lead 210,lead210@example.co.za,KwaZulu-Natal,4000,referral,2025-08-14
+211,Lead 211,,KwaZulu-Natal,1000,campaign,2025-06-29
+212,Lead 212,lead212@example.co.za,KwaZulu-Natal,9000,referral,2025-01-02
+213,Lead 213,lead213@example.co.za,KwaZulu-Natal,1500,campaign,2025-12-29
+214,Lead 214,lead214@example.co.za,KwaZulu-Natal,3000,walk-in,2025-11-08
+215,Lead 215,lead215@example.co.za,KwaZulu-Natal,2000,referral,2025-11-28
+216,Lead 216,,KwaZulu-Natal,1500,campaign,2025-12-25
+217,Lead 217,lead217@example.co.za,KwaZulu-Natal,1000,campaign,2025-02-11
+218,Lead 218,lead218@example.co.za,KwaZulu-Natal,0,referral,2025-08-07
+219,Lead 219,lead219@example.co.za,KwaZulu-Natal,8500,web,2025-11-10
+220,Lead 220,,KwaZulu-Natal,2000,web,2025-01-11
+221,Lead 221,lead221@example.co.za,KwaZulu-Natal,6000,campaign,2025-11-04
+222,Lead 222,lead222@example.co.za,KwaZulu-Natal,8500,web,2025-09-15
+223,Lead 223,lead223@example.co.za,KwaZulu-Natal,3500,referral,2025-03-28
+224,Lead 224,,KwaZulu-Natal,1000,campaign,2025-02-15
+225,Lead 225,lead225@example.co.za,KwaZulu-Natal,1500,referral,2025-02-14
+226,Lead 226,lead226@example.co.za,KwaZulu-Natal,0,web,2025-12-28
+227,Lead 227,lead227@example.co.za,KwaZulu-Natal,5000,referral,2025-05-22
+228,Lead 228,lead228@example.co.za,KwaZulu-Natal,2500,campaign,2025-02-16
+229,Lead 229,lead229@example.co.za,KwaZulu-Natal,6000,referral,2025-03-08
+230,Lead 230,lead230@example.co.za,KwaZulu-Natal,5000,referral,2025-04-10
+231,Lead 231,lead231@example.co.za,KwaZulu-Natal,0,campaign,2025-12-22
+232,Lead 232,lead232@example.co.za,KwaZulu-Natal,4000,referral,2025-11-01
+233,Lead 233,lead233@example.co.za,KwaZulu-Natal,500,campaign,2025-11-02
+234,Lead 234,lead234@example.co.za,KwaZulu-Natal,0,referral,2025-04-03
+235,Lead 235,lead235@example.co.za,KwaZulu-Natal,2500,campaign,2025-07-13
+236,Lead 236,lead236@example.co.za,KwaZulu-Natal,1500,campaign,2025-09-22
+237,Lead 237,lead237@example.co.za,KwaZulu-Natal,3500,referral,2025-12-03
+238,Lead 238,lead238@example.co.za,KwaZulu-Natal,7000,campaign,2025-07-07
+239,Lead 239,lead239@example.co.za,KwaZulu-Natal,1000,referral,2025-12-08
+240,Lead 240,lead240@example.co.za,KwaZulu-Natal,2000,web,2025-02-04
+241,Lead 241,lead241@example.co.za,KwaZulu-Natal,0,web,2025-05-11
+242,Lead 242,lead242@example.co.za,KwaZulu-Natal,500,web,2025-12-17
+243,Lead 243,lead243@example.co.za,KwaZulu-Natal,2500,walk-in,2025-03-30
+244,Lead 244,lead244@example.co.za,KwaZulu-Natal,0,campaign,2025-03-19
+245,Lead 245,lead245@example.co.za,Limpopo,4500,web,2025-12-09
+246,Lead 246,lead246@example.co.za,Limpopo,0,web,2025-04-21
+247,Lead 247,lead247@example.co.za,Limpopo,2000,referral,2025-05-27
+248,Lead 248,lead248@example.co.za,Limpopo,4000,web,2025-07-17
+249,Lead 249,lead249@example.co.za,Limpopo,1500,campaign,2025-05-17
+250,Lead 250,lead250@example.co.za,Limpopo,2500,web,2025-08-01
+251,Lead 251,lead251@example.co.za,Limpopo,500,referral,2025-02-10
+252,Lead 252,lead252@example.co.za,Limpopo,500,web,2025-10-04
+253,Lead 253,lead253@example.co.za,Limpopo,4000,web,2025-03-26
+254,Lead 254,lead254@example.co.za,Limpopo,1000,web,2025-11-23
+255,Lead 255,lead255@example.co.za,Limpopo,1500,web,2025-08-25
+256,Lead 256,lead256@example.co.za,Limpopo,500,web,2025-05-31
+257,Lead 257,lead257@example.co.za,Limpopo,1500,campaign,2025-07-29
+258,Lead 258,,Limpopo,500,referral,2025-11-15
+259,Lead 259,lead259@example.co.za,Limpopo,0,web,2025-04-18
+260,Lead 260,lead260@example.co.za,Limpopo,3500,campaign,2025-02-28
+261,Lead 261,lead261@example.co.za,Limpopo,500,referral,2025-04-13
+262,Lead 262,lead262@example.co.za,Limpopo,500,referral,2025-06-28
+263,Lead 263,lead263@example.co.za,Limpopo,3500,web,2025-05-11
+264,Lead 264,lead264@example.co.za,Limpopo,2000,referral,2025-02-15
+265,Lead 265,lead265@example.co.za,Limpopo,1500,web,2025-05-16
+266,Lead 266,lead266@example.co.za,Limpopo,4000,web,2025-07-21
+267,Lead 267,lead267@example.co.za,Limpopo,500,web,2025-02-27
+268,Lead 268,lead268@example.co.za,Limpopo,1000,referral,2025-11-30
+269,Lead 269,lead269@example.co.za,Limpopo,1000,referral,2025-07-12
+270,Lead 270,lead270@example.co.za,Limpopo,6500,walk-in,2025-07-13
+271,Lead 271,lead271@example.co.za,Limpopo,3000,campaign,2025-05-15
+272,Lead 272,lead272@example.co.za,Limpopo,500,walk-in,2025-06-20
+273,Lead 273,lead273@example.co.za,Limpopo,500,web,2025-12-06
+274,Lead 274,lead274@example.co.za,Limpopo,1000,referral,2025-05-05
+275,Lead 275,,Limpopo,500,campaign,2025-10-29
+276,Lead 276,lead276@example.co.za,Limpopo,1000,referral,2025-03-19
+277,Lead 277,lead277@example.co.za,Limpopo,0,web,2025-07-21
+278,Lead 278,,Limpopo,1500,web,2025-12-28
+279,Lead 279,lead279@example.co.za,Limpopo,500,web,2025-06-07
+280,Lead 280,lead280@example.co.za,Limpopo,500,web,2025-02-25
+281,Lead 281,lead281@example.co.za,Limpopo,7500,web,2025-05-31
+282,Lead 282,lead282@example.co.za,Limpopo,3000,campaign,2025-09-22
+283,Lead 283,,Limpopo,4000,referral,2025-08-12
+284,Lead 284,lead284@example.co.za,Limpopo,0,web,2025-12-12
+285,Lead 285,lead285@example.co.za,Limpopo,500,campaign,2025-08-01
+286,Lead 286,lead286@example.co.za,Limpopo,1000,campaign,2025-01-15
+287,Lead 287,lead287@example.co.za,Limpopo,3500,walk-in,2025-06-14
+288,Lead 288,lead288@example.co.za,Limpopo,2000,web,2025-07-13
+289,Lead 289,lead289@example.co.za,Limpopo,0,web,2025-09-25
+290,Lead 290,lead290@example.co.za,Limpopo,500,referral,2025-09-26
+291,Lead 291,lead291@example.co.za,Limpopo,3000,referral,2025-09-21
+292,Lead 292,lead292@example.co.za,Limpopo,10500,referral,2025-11-27
+293,Lead 293,lead293@example.co.za,Limpopo,1000,referral,2025-06-19
+294,Lead 294,lead294@example.co.za,Limpopo,1000,web,2025-06-10
+295,Lead 295,lead295@example.co.za,Limpopo,1500,campaign,2025-09-24
+296,Lead 296,lead296@example.co.za,Limpopo,1000,web,2025-08-30
+297,Lead 297,lead297@example.co.za,Limpopo,3000,campaign,2025-12-09
+298,Lead 298,lead298@example.co.za,Limpopo,4000,campaign,2025-11-10
+299,Lead 299,lead299@example.co.za,Limpopo,500,web,2025-10-06
+300,Lead 300,lead300@example.co.za,Limpopo,1500,campaign,2025-02-20

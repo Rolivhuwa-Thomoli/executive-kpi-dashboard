@@ -1,0 +1,19 @@
+-- ProvinceDim: one row per province, combining provinces seen in stores and in leads
+-- Shared dimension pattern: avoids a many-to-many relationship between leads and stores.
+-- Create in Power BI: Modelling ribbon -> New table -> paste this DAX.
+ProvinceDim =
+DISTINCT (
+    UNION (
+        VALUES ( stores[province] ),              -- 7 trading provinces
+        VALUES ( marketing_leads_clean[province] ) -- 4 lead provinces
+    )
+)
+
+-- Expected result: 7 rows
+-- Eastern Cape, Free State, Gauteng, KwaZulu-Natal, Limpopo, Mpumalanga, Western Cape
+--
+-- Then in Model view:
+--   ProvinceDim[Province] 1 -> * stores[province]
+--   ProvinceDim[Province] 1 -> * marketing_leads_clean[province]
+-- Both single-direction (ProvinceDim filters outward).
+-- Delete any auto-created relationship between leads and stores.

@@ -1,0 +1,38 @@
+-- Integration measures for the Executive KPI Dashboard
+-- Add one at a time: right-click marketing_leads_clean -> New measure
+
+-- Count of cleaned leads
+Total Leads = COUNTROWS ( marketing_leads_clean )
+
+-- Total monthly budget behind those leads
+Lead Budget = SUM ( marketing_leads_clean[monthly_budget] )
+
+-- Revenue per lead: how much trade does each marketing contact sit alongside?
+Revenue per Lead =
+DIVIDE ( [Total Revenue], [Total Leads] )
+
+-- Attention Gap: budget share minus revenue share
+-- Positive = we overspend attention here relative to the trade it generates
+Attention Gap =
+DIVIDE ( [Lead Budget], CALCULATE ( [Lead Budget], ALL ( ProvinceDim ) ) )
+    - DIVIDE ( [Total Revenue], CALCULATE ( [Total Revenue], ALL ( ProvinceDim ) ) )
+
+-- Leads with missing email (data-quality card on Page 1)
+Leads Missing Email =
+COUNTROWS ( FILTER ( marketing_leads_clean, ISBLANK ( marketing_leads_clean[email] ) ) )
+
+-- ---------------------------------------------------------------------------
+-- Expected card values (verified dataset):
+--   Total Revenue (completed): R22,360,217.95
+--   Total Leads:               300
+--   Lead Budget:               R665,000
+--   Leads Missing Email:       19
+--
+-- Checkpoint matrix (ProvinceDim[Province] on rows):
+--   Province        Total Revenue    Total Leads   Revenue per Lead
+--   Gauteng         R9,941,430.81    78            R127,454.24
+--   Western Cape    R5,170,421.60    82            R63,053.92
+--   KwaZulu-Natal   R3,192,056.18    84            R38,000.67
+--   Limpopo         R965,725.91      56            R17,245.11
+--   (Eastern Cape, Free State, Mpumalanga: revenue but blank leads -- correct)
+-- ---------------------------------------------------------------------------
